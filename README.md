@@ -1,5 +1,3 @@
-# rfriends_rescue
-rfriends3が動作しなくなった時のレスキューです。
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -21,8 +19,7 @@ rfriends3が動作しなくなった時のレスキューです。
           <p>
              まず、以下のリンクより、レスキューシステム rescue.zipをダウンロードしてください。<br>
           </p>
-          [<p>github.com/rfriends/rfriends_rescue/blob/main/rescue.zip](https://github.com/rfriends/rfriends_rescue/blob/main/rescue.zip)
-             <a href=https://github.com/rfriends/rfriends_rescue/blob/main/rescue.zip download=rescue.zip>rescue.zip</a>
+             <a href=rescue.zip download=rescue.zip>rescue.zip</a>
           </p>
         <li>レスキューシステムのコピー（Windowsの場合）</li>
           <p>
