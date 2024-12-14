@@ -19,7 +19,7 @@
           <p>
              まず、以下のリンクより、レスキューシステム rescue.zipをダウンロードしてください。<br>
           </p>
-             <a href=rescue.zip download=rescue.zip>rescue.zip</a>
+             <a href=https://github.com/rfriends/rfriends_rescue/releases/latest/download/rescue.zip download=rescue.zip>rescue.zip</a>
           </p>
         <li>レスキューシステムのコピー（Windowsの場合）</li>
           <p>
