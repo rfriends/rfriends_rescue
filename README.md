@@ -13,7 +13,7 @@
              <br>
           </p>
           <p>
-          <a href=https://github.com/rfriends/rfriends_rescue/wiki>rfriends3レスキュー</a>a>
+          <a href=https://github.com/rfriends/rfriends_rescue/wiki>rfriends3レスキュー</a>
           </p>
 </body>
 </html>
